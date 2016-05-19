@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">My App Portfolio</string>
     <string name="portfolio_header">My Nanodegree Apps!</string>
+
+    <array name="my_apps">
+        <item>Popular Movies</item>
+        <item>Stock Hawk</item>
+        <item>Build It Bigger</item>
+        <item>Make Your App Material</item>
+        <item>Go Ubiquitous</item>
+        <item>Capstone</item>
+    </array>
 </resources>
